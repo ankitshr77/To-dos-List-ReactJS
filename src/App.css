@@ -1,0 +1,10 @@
+.inputbox{
+  margin-right: 10px;
+  height: 30px;
+}
+
+.addbutton{
+  height: 30px;
+  background-color: antiquewhite;
+  border-radius: 5px;
+}
